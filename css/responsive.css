@@ -1,7 +1,7 @@
 /* =====================================
 Template Name: oldpotter
 Author Name: Naimur Rahman
-Author URI: http://www.oldpotter.in/
+Author URI: https://oldpotter.in/
 Description: oldpotter - eCommerce HTML5 Template.
 Version:1.0
 ========================================*/
