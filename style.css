@@ -1752,13 +1752,15 @@ Version:1.0
   position: relative;
   overflow: hidden;
   cursor:pointer;
+  height: 280px;
 }
 .single-product .product-img a {
   display: block;
   position: relative;
 }
 .single-product .product-img a img {
-  width: 100%;
+	width: auto;
+    height: 280px;
 }
 .single-product .product-img a img.hover-img {
   position: absolute;
